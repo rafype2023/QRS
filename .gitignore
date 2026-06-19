@@ -9,3 +9,6 @@ Thumbs.db
 
 # Subagent files or logs (if generated locally)
 *.log
+
+# Design files
+*.psd
