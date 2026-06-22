@@ -280,6 +280,18 @@ body {
   margin-bottom: 2rem;
 }
 
+.links-section-title {
+  font-family: var(--font-title);
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1.5px;
+  color: var(--accent-color);
+  margin-bottom: 1.2rem;
+  text-align: center;
+  text-shadow: 0 0 10px rgba(var(--accent-rgb), 0.2);
+}
+
 .link-item {
   display: flex;
   align-items: center;
